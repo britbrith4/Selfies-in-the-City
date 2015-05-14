@@ -1,0 +1,60 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>Selfies In the City</title>
+</head>
+
+<body>
+   <div id="page">
+
+       <div id="header">
+         <h1>Selfies in the City</h1>
+
+         <%= form_tag "/contents" do %>
+          <%= label_tag :photo %>
+          <%= file_field_tag :photo %>
+          <%= submit_tag "submit" %>
+         <% end %>
+           <ul>
+
+
+                 <li><a href="#top">Top of Page</a></li>
+                <li><a href="#">Cities</a></li>
+               <li><a href="#">Selfies</a></li>
+               <li><a href="#">About Us</a></li>
+               <li><a href="mailto:brittanyhenson@gmail.com">Contact</a></li>
+           </ul>
+       </div>
+
+       <div id="main">
+
+         <div class="main_top">
+             <h1>Selfies Reimagined</h1>
+           </div>
+
+            <div class="main_body">
+               <p>  </p>
+
+               <p></p>
+
+               <p> </p>
+           </div>
+
+            <div class="main_bottom"></div>
+
+       </div>
+
+
+
+       <div id="footer">
+       <p>
+       <a href="">web development</a> by <a href=""></a>
+       </p>
+       </div>
+
+       </div>
+</body>
+</html>

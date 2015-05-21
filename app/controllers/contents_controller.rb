@@ -1,5 +1,5 @@
 class ContentsController < ApplicationController
-
+# what is the purpose of this contents controller going forward?
   def index
     @contents = Content.all
 

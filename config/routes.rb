@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-
+# I see that you have a contents controller but no resources for contents. 
   devise_for :users
   root "welcome#homepage"
 

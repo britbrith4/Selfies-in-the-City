@@ -16,5 +16,6 @@ Does not meet expectations. Again I think you weren't able to achieve the result
 - the issue with your views indicates to me you're unsure of how templating and layouts work
 
 
+
 ### Review:
-I want to rehash the fact that I think you're more capable than this rubric is states. This is just the results of the code review of your project in its current state. I would encourage you to keep working on this app and make sure it's ready for your meet and hire. Create a more substantial back end. Start small by figuring out your ERD's/Domain model. Integrate JS into your app, even if its something small like a drop down menu or a simple click event. 
+Because of the roadblock you were unable to show what you have learned in class and that makes it tough for me to evaluate your progress. I want to rehash the fact that I think you're more capable than this rubric states. This is just the results of the code review of your project in its current state. I would encourage you to keep working on this app and make sure it's ready for your meet and hire. Create a more substantial back end. Start small by figuring out your ERD's/Domain model. Integrate JS into your app, even if its something small like a drop down menu or a simple click event.

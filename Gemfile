@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+# not sure how the first two gems are integrated. We'll talk about this piece during one on one.
 gem 'carrierwave'
 gem 'fog'
 gem 'figaro'
